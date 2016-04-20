@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./oratoresatticie08dobs_0539.png"; bbox 0 0 1915 3322; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 516 949 1336 1166">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 516 949 1336 1166">
+     <span class='ocr_line' id='line_1_1' title="bbox 516 949 1336 1038; baseline -0.02 0"><span class='ocrx_word' id='word_1_1' title='bbox 516 957 864 1038; x_wconf 74' lang='lat' dir='ltr'>UNIVERSITY</span> <span class='ocrx_word' id='word_1_2' title='bbox 890 955 957 1031; x_wconf 77' lang='grc' dir='ltr'>ΟΡ</span> <span class='ocrx_word' id='word_1_3' title='bbox 984 949 1248 1028; x_wconf 73' lang='lat' dir='ltr'>TOR0u&#39;r0</span> <span class='ocrx_word' id='word_1_4' title='bbox 1330 1032 1336 1038; x_wconf 6' lang='grc' dir='ltr'>χ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 756 1088 1010 1166; baseline -0.02 0"><span class='ocrx_word' id='word_1_5' title='bbox 756 1088 1010 1166; x_wconf 78' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 818 1302 950 1309">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 818 1302 950 1309">
+     <span class='ocr_line' id='line_1_3' title="bbox 818 1302 950 1309; baseline -0.023 0"><span class='ocrx_word' id='word_1_6' title='bbox 818 1302 950 1309; x_wconf 80' lang='lat'>-——</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 607 1455 992 1531">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 607 1455 992 1531">
+     <span class='ocr_line' id='line_1_4' title="bbox 607 1455 992 1531; baseline -0.026 1"><span class='ocrx_word' id='word_1_7' title='bbox 607 1455 753 1531; x_wconf 93' lang='lat' dir='ltr'>Do</span> <span class='ocrx_word' id='word_1_8' title='bbox 830 1470 992 1524; x_wconf 89' lang='lat' dir='ltr'>not</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 800 1326 2942">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 800 1326 2942">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 800 1326 2942; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 800 1326 2942; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
